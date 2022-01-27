@@ -1,0 +1,36 @@
+C:\Users\umut\Desktop\otobus_application\otobus_application\otobus_application\bin\Debug\otobus_application.exe.config
+C:\Users\umut\Desktop\otobus_application\otobus_application\otobus_application\bin\Debug\otobus_application.exe
+C:\Users\umut\Desktop\otobus_application\otobus_application\otobus_application\bin\Debug\otobus_application.pdb
+C:\Users\umut\Desktop\otobus_application\otobus_application\otobus_application\obj\Debug\otobus_application.csproj.AssemblyReference.cache
+C:\Users\umut\Desktop\otobus_application\otobus_application\otobus_application\obj\Debug\otobus_application.Form1.resources
+C:\Users\umut\Desktop\otobus_application\otobus_application\otobus_application\obj\Debug\otobus_application.Properties.Resources.resources
+C:\Users\umut\Desktop\otobus_application\otobus_application\otobus_application\obj\Debug\otobus_application.csproj.GenerateResource.cache
+C:\Users\umut\Desktop\otobus_application\otobus_application\otobus_application\obj\Debug\otobus_application.csproj.CoreCompileInputs.cache
+C:\Users\umut\Desktop\otobus_application\otobus_application\otobus_application\obj\Debug\otobus_application.exe
+C:\Users\umut\Desktop\otobus_application\otobus_application\otobus_application\obj\Debug\otobus_application.pdb
+C:\Users\HamzaKaya\Desktop\Yaz Okulu Otobüs Uygulaması\otobus_application\otobus_application\otobus_application\bin\Debug\otobus_application.exe.config
+C:\Users\HamzaKaya\Desktop\Yaz Okulu Otobüs Uygulaması\otobus_application\otobus_application\otobus_application\bin\Debug\otobus_application.exe
+C:\Users\HamzaKaya\Desktop\Yaz Okulu Otobüs Uygulaması\otobus_application\otobus_application\otobus_application\bin\Debug\otobus_application.pdb
+C:\Users\HamzaKaya\Desktop\Yaz Okulu Otobüs Uygulaması\otobus_application\otobus_application\otobus_application\obj\Debug\otobus_application.csproj.AssemblyReference.cache
+C:\Users\HamzaKaya\Desktop\Yaz Okulu Otobüs Uygulaması\otobus_application\otobus_application\otobus_application\obj\Debug\otobus_application.Properties.Resources.resources
+C:\Users\HamzaKaya\Desktop\Yaz Okulu Otobüs Uygulaması\otobus_application\otobus_application\otobus_application\obj\Debug\otobus_application.csproj.GenerateResource.cache
+C:\Users\HamzaKaya\Desktop\Yaz Okulu Otobüs Uygulaması\otobus_application\otobus_application\otobus_application\obj\Debug\otobus_application.csproj.CoreCompileInputs.cache
+C:\Users\HamzaKaya\Desktop\Yaz Okulu Otobüs Uygulaması\otobus_application\otobus_application\otobus_application\obj\Debug\otobus_application.exe
+C:\Users\HamzaKaya\Desktop\Yaz Okulu Otobüs Uygulaması\otobus_application\otobus_application\otobus_application\obj\Debug\otobus_application.pdb
+C:\Users\HamzaKaya\Desktop\Yaz Okulu Otobüs Uygulaması\otobus_application\otobus_application\otobus_application\obj\Debug\otobus_application.AdminForm.resources
+C:\Users\HamzaKaya\Desktop\Yaz Okulu Otobüs Uygulaması\otobus_application\otobus_application\otobus_application\obj\Debug\otobus_application.CustomerForm.resources
+C:\Users\HamzaKaya\Desktop\Yaz Okulu Otobüs Uygulaması\otobus_application\otobus_application\otobus_application\obj\Debug\otobus_application.LoginForm.resources
+C:\Users\HamzaKaya\Desktop\Yaz Okulu Otobüs Uygulaması\otobus_application\otobus_application\otobus_application\obj\Debug\otobus_application.Form4.resources
+C:\Users\umut\Desktop\otobus_application_real\otobus_application\otobus_application\bin\Debug\otobus_application.exe.config
+C:\Users\umut\Desktop\otobus_application_real\otobus_application\otobus_application\bin\Debug\otobus_application.exe
+C:\Users\umut\Desktop\otobus_application_real\otobus_application\otobus_application\bin\Debug\otobus_application.pdb
+C:\Users\umut\Desktop\otobus_application_real\otobus_application\otobus_application\obj\Debug\otobus_application.csproj.AssemblyReference.cache
+C:\Users\umut\Desktop\otobus_application_real\otobus_application\otobus_application\obj\Debug\otobus_application.CustomerForm.resources
+C:\Users\umut\Desktop\otobus_application_real\otobus_application\otobus_application\obj\Debug\otobus_application.LoginForm.resources
+C:\Users\umut\Desktop\otobus_application_real\otobus_application\otobus_application\obj\Debug\otobus_application.AdminForm.resources
+C:\Users\umut\Desktop\otobus_application_real\otobus_application\otobus_application\obj\Debug\otobus_application.Form4.resources
+C:\Users\umut\Desktop\otobus_application_real\otobus_application\otobus_application\obj\Debug\otobus_application.Properties.Resources.resources
+C:\Users\umut\Desktop\otobus_application_real\otobus_application\otobus_application\obj\Debug\otobus_application.csproj.GenerateResource.cache
+C:\Users\umut\Desktop\otobus_application_real\otobus_application\otobus_application\obj\Debug\otobus_application.csproj.CoreCompileInputs.cache
+C:\Users\umut\Desktop\otobus_application_real\otobus_application\otobus_application\obj\Debug\otobus_application.exe
+C:\Users\umut\Desktop\otobus_application_real\otobus_application\otobus_application\obj\Debug\otobus_application.pdb
